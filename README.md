@@ -1,2 +1,2 @@
 # World-Cup-2022-Website
-Un mini-site de la coupe du monde de football 2022, pour consulter les groupes, les équipes, les matchs, les fiches techniques des joueurs et autres. 
+This is my first website that provides informations about the 2022 World Cup. it's build using HTML, CSS and JavaScript, it gives informations about groups, teams, matchs, technical sheets of players and more.
